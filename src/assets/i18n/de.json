@@ -1,0 +1,9 @@
+{
+    "title": "Angular Ngx Translate Beispiel",
+    "description": "In diesem Beispiel werden wir sehen wie man mithilfe von Ngrx Translate eine merhsprachige Angular App entwicklet.",
+    "login": "Anmelden",
+    "credentials": {
+        "username": "Benutzername eingeben",
+        "password": "Password eingeben"
+    }
+}

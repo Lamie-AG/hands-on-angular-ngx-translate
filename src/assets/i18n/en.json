@@ -1,0 +1,9 @@
+{
+    "title": "Angular Ngx Translate Example",
+    "description": "In this example we will see how we can internationalize an angular application using ngx translate.",
+    "login": "Login",
+    "credentials": {
+        "username": "Enter your user name",
+        "password": "Enter your password"
+    }
+}
